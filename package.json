@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-steelbrain-legacy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "My personal babel preset for legacy javascript engines",
   "dependencies": {
     "babel-plugin-transform-es2015-spread": "^6.1.18",
