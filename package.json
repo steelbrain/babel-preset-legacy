@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "My personal babel preset for legacy javascript engines",
   "dependencies": {
-    "babel-plugin-syntax-object-rest-spread": "^6.1.18",
+    "babel-plugin-transform-object-rest-spread": "^6.1.18",
     "babel-plugin-transform-es2015-arrow-functions": "^6.1.18"
   },
   "main": "index.js",
